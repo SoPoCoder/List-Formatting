@@ -10,11 +10,10 @@ This sample formats your view to appear and work like an Accordion style FAQ (Fr
 Column Name   |Type
 --------------|--------------
 Title         | Single Line Text
-Question      | Single Line Text
 Answer     | Multi Line Text (Plain text)
 ShowMore     | Single Line Text
 
-Apply a Group By on the Question column in your view.
+Apply a Group By on the *Title* column in your view and optionally rename *Title* to *Question*.
 ## Sample
 
 Solution|Author(s)
@@ -26,6 +25,8 @@ faq-accordion.json | [Anand Vadivelan](https://github.com/anandragav) ([@anandVr
 Version |Date              |Comments
 --------|------------------|--------------------------------
 1.0     |July 9, 2021  |Initial release
+--------|------------------|--------------------------------
+2.0     |June 4, 2023  |Updated release
 
 
 ## Disclaimer
